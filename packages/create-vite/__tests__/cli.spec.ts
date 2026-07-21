@@ -1,5 +1,5 @@
 import fs from 'node:fs'
-import path from 'node:path'
+import path from 'node:#path'
 import type { SyncOptions } from 'execa'
 import { execaCommandSync } from 'execa'
 import { afterEach, beforeAll, expect, test } from 'vitest'
