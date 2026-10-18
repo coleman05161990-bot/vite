@@ -18,6 +18,7 @@
   <a href="https://github.com/vitejs/vite/actions/workflows/ci.yml"><img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main" alt="build status"></a>
   <a href="https://docs.warp.dev/support-and-community/community/open-source-partnership"><img src="https://img.shields.io/badge/Oz%20agents-triaging%20issues-white?logo=warp" alt="issue triage powered by Oz"></a>
   <a href="https://chat.vite.dev"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
+  <a href="https://app.codspeed.io/coleman05161990-bot/vite?utm_source=badge"><img src="https://img.shields.io/endpoint?url=https://codspeed.io/badge.json" alt="CodSpeed"/></a>
 </p>
 <br/>
 

@@ -300,6 +300,7 @@ export default defineConfig(
       'scripts/**',
       'vitest.config.ts',
       'vitest.config.e2e.ts',
+      'vitest.config.bench.ts',
     ],
     languageOptions: {
       parserOptions: {
